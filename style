@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(1, 0, 8);
+    
+}
+
+p{
+    color: rgb(252, 249, 249);
+}
+
+h1 {
+    color: red;
+}
+
+h3{
+    color: red;
+}
+
+li{
+    color: bisque;
+}
