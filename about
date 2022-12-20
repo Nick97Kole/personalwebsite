@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>about</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+
+    
+    <nav>
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+      </ul>
+    </nav>
+
+<h1>About Me</h1>
+    <h3>Blog</h3>
+
+        <p>Hello My name is Nick. in my free time I like to watch sports</p>
+    
+    <h3>Devoloping</h3>
+        <p>Im in the grand circus After hours boot camp to learn how to code.</p>
+
+    <h3>Home Town</h3>
+        <p>Im from a small town in southwest Michigan called St. Joseph. It was a really nice place to grow up and spend summers beacuse the town sits on lake michigan.</p>
+
+
+
+</body>
+</html>
