@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfolio</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+<body>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+      </ul>
+    </nav>
+
+    <h1>My Work</h1>
+    <p>Here is a link to my Linedin</p> <a href="https://www.linkedin.com/in/nicholas-j-kolesar/">My Profile</a>
+    <p>Below are a few of the projects I have created</p>
+
+        <a href="https://github.com/Nick97Kole/Dice-Rollere/blob/master/Dice%20Rollere/Program.cs" target="_blank">Dice Roller Project</a>
+        <br>
+        <a href="https://github.com/Nick97Kole/Student-Directory3/blob/master/Student%20Directory3/Program.cs" target="_blank">Student Directory</a>
+        <br>
+        <a href="https://github.com/Nick97Kole/lab-one-if/blob/main/Program.cs" target="_blank">if Statments</a>
+
+
+</body>
+</html>
